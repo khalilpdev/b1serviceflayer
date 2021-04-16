@@ -1,6 +1,6 @@
 name: b1serviceflayer
 description: A generic utility package for SAP Business One Service Layer client API programming 
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/nemethmik/b1serviceflayer
 author: Miklos Nemeth (Tiva11) <nemethmiklos1960@gmail.com>
 
